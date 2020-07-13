@@ -10,6 +10,9 @@
   "author": "Lucy Murray",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.12.1"
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "json-server": "^0.12.1",
+    "path": "^0.12.7"
   }
 }
